@@ -21,5 +21,16 @@ Paiement mensuel : Ethereum
 
 Les 12,5% de jetons restants iront aux fondateurs et seront bloqué pour 2 ans minimum.
 
-Les détenteurs de jetons POOL doivent réclamer leurs dividendes le dernier jour du mois en gardant simplement leurs jetons sur un portefeuille Ethereum compatible ERC20 (Myst, MyEtherWallet, …). S'ils sont sur une place d'échange le dernier jour du mois, les dividendes ne pourront être correctement distribués.o
+Les détenteurs de jetons POOL doivent réclamer leurs dividendes le dernier jour du mois en gardant simplement leurs jetons sur un portefeuille Ethereum compatible ERC20 (Myst, MyEtherWallet, …). S'ils sont sur une place d'échange le dernier jour du mois, les dividendes ne pourront être correctement distribués.
 Contrairement à d'autres ICO basées sur la preuve d'enjeu ou les masternodes, les nœuds StakePool sont déjà en place, fonctionnels, et rapporte déjà des bénéfices aux détenteurs de jetons. Les fonds de la vente de jetons seront donc directement consacrés au minage et à de nouveaux profits.
+
+
+LOGO POS MINING CO
+
+Qu'est ce que StakePool : Le projet StakePool, issu d'une société américaine (POS Mining Co.) basée en Ontario (Canada), mantient des masternodes pour les monnaies à preuve d'enjeu (Proof Of Stake). 25% de notre approvisionnement en éléctricité est issu de l'énergie solaire. Chaque jeton POOL représente un pourcentage des profits générés par le minage, et est payé mensuellement en Ethereum, directement dans le portefeuille des détenteurs de jetons. Comme pour la plupart des jetons, les jetons POOL devraient être listés sur plusieurs place d'échange.
+
+«La philosophie de la preuve d'enjeu est non pas "la sécurité vient de l'énergie dépensée", mais plutôt "la sécurité vient de la mise en perte d'une valeur économique".» - Vitalik Buterin (Fondateur d'Ethereum)
+
+Histoire du projet : Les fondateurs de StakePool ont maintenu des masternodes pour plusieurs clients depuis plus de deux ans maintenant. En commençant par DASH, Blackcoin, Diamond, NEM et Reddcoin, puis avec OkCoin, Stratis et Decred, ils ont commencé à regrouper les crypto-monnaies de leurs amis, leur famille, et de personnes rencontrés sur le net, afin d'augmenter les chances de récompenses. Comme les fonds continuaient à croître, ils ont commencé à miner de plus en plus de crypto-monnaies. Contrairement à la preuve de travail (Proof of Work, POW), l'investissement est entièrement sur la monnaie. Les coûts électriques et de matériel restent minimes.
+
+Securité : 
