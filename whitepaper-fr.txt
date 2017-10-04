@@ -1,0 +1,25 @@
+Lancement des jetons STAKEPOOL (POOL)
+
+Résumé : StakePool (POOL) est un jeton Ethereum ERC-20 qui représente une part de la mise (stake) de l'infrastructure de StakePool.co. Le réseau StakePool.co utilise la preuve d'enjeu (POS, Proof Of Stake) sur plusieurs masternodes pour maximiser le retour sur investissement. Le jeton sela disponible durant l'ICO qui durera 60 jours. Durant la première vague, 50 millions de jetons au maximum seront vendus. Durant lu deuxième phase, 100 millions seront vendus, puisque de plus en plus de crypto-monnaies migreront vers la preuve d'enjeu, dont l'Ethereum. Cette deuxième vague n'aura lieu entre 60 et 90 jours avant la bascule d'Ethereum vers la preuve d'enjeu (Casper). Les jetons restant seront gardés de côtés pour d'éventuels d'autres migrations vers la preuve d'enjeu ou masternodes. Une troisième vague n'aura lieu plus tard qu'en vas de besoin d'investissements supplémentaires. Dans le cas contraires, les jetons restant seront brûlés.
+
+
+Jetons distribués : 50 millions à la première vague.
+
+Jetons créés : 200 millions
+
+Site web: http://stakepool.co/
+
+Paiement : Ethereum uniquement
+
+Date de l'ICO : 10 Octobre 2017
+
+Date de fin de l'ICO : ????
+
+Prix des jetons : 1 ETH = 2000 POOL
+
+Paiement mensuel : Ethereum
+
+Les 12,5% de jetons restants iront aux fondateurs et seront bloqué pour 2 ans minimum.
+
+Les détenteurs de jetons POOL doivent réclamer leurs dividendes le dernier jour du mois en gardant simplement leurs jetons sur un portefeuille Ethereum compatible ERC20 (Myst, MyEtherWallet, …). S'ils sont sur une place d'échange le dernier jour du mois, les dividendes ne pourront être correctement distribués.o
+Contrairement à d'autres ICO basées sur la preuve d'enjeu ou les masternodes, les nœuds StakePool sont déjà en place, fonctionnels, et rapporte déjà des bénéfices aux détenteurs de jetons. Les fonds de la vente de jetons seront donc directement consacrés au minage et à de nouveaux profits.
